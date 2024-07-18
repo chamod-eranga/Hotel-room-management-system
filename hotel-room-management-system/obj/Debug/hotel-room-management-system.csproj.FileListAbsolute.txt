@@ -1,0 +1,120 @@
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.exe.config
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.exe
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.pdb
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.AssemblyReference.cache
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.Properties.Resources.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.GenerateResource.cache
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.CoreCompileInputs.cache
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.exe
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.pdb
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.g.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.Loginpage.resources
+E:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csprojAssemblyReference.cache
+E:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.g.resources
+E:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.HomePage.resources
+E:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.LoginPage.resources
+E:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.LoadingPage.resources
+E:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.New_staff_registration.resources
+E:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.GenerateResource.cache
+E:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.exe
+E:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.pdb
+E:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csprojAssemblyReference.cache
+E:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.g.resources
+E:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.HomePage.resources
+E:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.LoginPage.resources
+E:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.LoadingPage.resources
+E:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.New_staff_registration.resources
+E:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.GenerateResource.cache
+E:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.exe
+E:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.pdb
+F:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csprojAssemblyReference.cache
+F:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.g.resources
+F:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.HomePage.resources
+F:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.LoginPage.resources
+F:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.LoadingPage.resources
+F:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.New_staff_registration.resources
+F:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.GenerateResource.cache
+F:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.exe
+F:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.pdb
+E:\Project\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.exe.config
+E:\Project\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.exe
+E:\Project\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.pdb
+E:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.Properties.Resources.resources
+E:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.CoreCompileInputs.cache
+F:\Project\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.exe.config
+F:\Project\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.exe
+F:\Project\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.pdb
+F:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.Properties.Resources.resources
+F:\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.CoreCompileInputs.cache
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.exe.config
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.exe
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.pdb
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.AssemblyReference.cache
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.g.resources
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.HomePage.resources
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.LoginPage.resources
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.LoadingPage.resources
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.New_staff_registration.resources
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.Properties.Resources.resources
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.GenerateResource.cache
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.CoreCompileInputs.cache
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.exe
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.pdb
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.booking.resources
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.feedback.resources
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.guests.resources
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.payment.resources
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\Project\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.rooms.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.New_staff_member_register.new_member_reg.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\bin\Debug\HotelRoomManagementSystem.mdf
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\bin\Debug\HotelRoomManagementSystem_log.ldf
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.HomePage.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.booking.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.dash.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.geuestroom.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.feedcheak.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\MAIN PROJECT\Hotel Management System\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.Loading.resources
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\01- Visual databass add Main system\1 - NEW ORIGINAL\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.AssemblyReference.cache
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\01- Visual databass add Main system\1 - NEW ORIGINAL\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.g.resources
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\01- Visual databass add Main system\1 - NEW ORIGINAL\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.exe
+H:\BIT ;_;\BIT SEM 2\ITE 1942 - ICT Project\MAIN PROJECT\Project Code\01- Visual databass add Main system\1 - NEW ORIGINAL\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.pdb
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\bin\Debug\HotelRoomManagementSystem.mdf
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\bin\Debug\HotelRoomManagementSystem_log.ldf
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.exe.config
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.exe
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.pdb
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.AssemblyReference.cache
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.g.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.booking.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.feedcheak.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.dash.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.geuestroom.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.HomePage.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.Loading.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.LoginPage.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.New_staff_member_register.new_member_reg.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.Properties.Resources.resources
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.GenerateResource.cache
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.CoreCompileInputs.cache
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.exe
+D:\3-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.pdb
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\bin\Debug\HotelRoomManagementSystem.mdf
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\bin\Debug\HotelRoomManagementSystem_log.ldf
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.exe.config
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.exe
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\bin\Debug\hotel-room-management-system.pdb
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.AssemblyReference.cache
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.g.resources
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.booking.resources
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.feedcheak.resources
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.dash.resources
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.geuestroom.resources
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.HomePage.resources
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.Loading.resources
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.LoginPage.resources
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.New_staff_member_register.new_member_reg.resources
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel_room_management_system.Properties.Resources.resources
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.GenerateResource.cache
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.csproj.CoreCompileInputs.cache
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.exe
+D:\2-BIT\2ND Semester\ITE 1942 - ICT Project\1-ICT Project Evaluation\hotel-room-management-system\hotel-room-management-system\obj\Debug\hotel-room-management-system.pdb
